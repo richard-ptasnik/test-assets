@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><inits id="N1B2A080028311EA8000AEF88B5F46AE" type="com.ibm.rational.test.ft.aftsuite"><group><tests><test path="/WebUIPrj_1002_1/Tests/googlSearch.testsuite"/><test path="/WebUIPrj_1002_1/Tests/googlSearch2.testsuite"/></tests><browsers><browser name="firefox"/></browsers>
+	<locations>
+		<location host="10.115.83.180"></location></locations></group></inits>

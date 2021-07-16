@@ -1,0 +1,4 @@
+StickyFolders///Results=com.ibm.rational.test.lt.stats.session
+StickyFolders///Schedules=com.ibm.rational.test.lt.rate.schedule,com.ibm.rational.test.lt.schedule
+StickyFolders///Tests=com.ibm.rational.test.lt.test
+eclipse.preferences.version=1

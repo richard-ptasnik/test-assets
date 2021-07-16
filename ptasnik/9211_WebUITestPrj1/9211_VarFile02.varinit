@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><inits xmlns="http://www.ibm.com/rational/test/lt/varinit">
+  <variable_init name="Email" value="jsc@hcl.com"/><variable_init
+  	name="Password" value="Pbws123456" /><variable_init name="Quantity1" value="11" /><variable_init
+		name="Quantity2" value="12" ></variable_init>
+	<variable_init
+  	name="Quantity3" value="13" />
+</inits>
